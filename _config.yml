@@ -1,0 +1,10 @@
+# basic options
+title: Widgets and Cogs
+author: GitHub User
+email: your-email@domain.com
+description: A wonderful site
+github_username:  edwardsoutherington
+
+# Build settings
+markdown: kramdown
+theme: minima
