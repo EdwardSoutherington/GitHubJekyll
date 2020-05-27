@@ -5,4 +5,13 @@ title: Home
 # Edward Southerington
 
 
-<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" title="Email me">Click here to send me an email!</a>
+<div class="home">
+  <div class="full-hero hero-home">
+    <div class="hero-content">
+      <h1>Katarina Hoeger</h1>
+      <ul class="social-list social-links">
+        {% include social-links.html %}
+      </ul>
+    </div>
+  </div>
+</div>
