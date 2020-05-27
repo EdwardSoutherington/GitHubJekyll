@@ -5,4 +5,4 @@ title: Home
 # Edward Southerington
 
 
-{% include social-media-links.html %} tag.
+<a href="{{ site.data.social-media.email.href }}{{ site.data.social-media.email.id }}" title="Email me">Click here to send me an email!</a>
